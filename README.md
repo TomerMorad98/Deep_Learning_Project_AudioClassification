@@ -1,3 +1,11 @@
+Detecting War Sounds in Northern Israel Using Deep Audio Models
+Ido Madar, Tomer Morad and Ben Even Shoshan
+Tel Aviv University
+
+Note : 
+for the Data please refer to our google drive -
+	https://drive.google.com/drive/folders/1tH79Ss-cLo4P6vCZKlP3dbz-RgL8slCM?usp=drive_link
+
 CNN14 model 
 Refer to: "cnn14_model\CNN14.ipynb"
 
