@@ -3,6 +3,7 @@ Ido Madar, Tomer Morad and Ben Even Shoshan
 Tel Aviv University
 
 Note : 
+the Trained models can be found in the Google drive
 for the Data please refer to our google drive -
 	https://drive.google.com/drive/folders/1tH79Ss-cLo4P6vCZKlP3dbz-RgL8slCM?usp=drive_link
 
